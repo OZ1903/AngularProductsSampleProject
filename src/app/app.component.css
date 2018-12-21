@@ -1,0 +1,11 @@
+.nav-link {
+    font-size: x-large
+  }
+
+a:hover.text-secondary{
+    color: whitesmoke !important;
+}
+
+a:visited.text-secondary{
+    color: white !important;
+}
